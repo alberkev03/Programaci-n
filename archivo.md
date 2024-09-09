@@ -5,6 +5,6 @@
 3. Conformar el equipo.
 4. Dividir tareas.
 5. Realizar tests.
-6. IF succes, publicar; sino repetir desde el 4. 
+6. IF success publicar; sino repetir desde el 4. 
 
 
